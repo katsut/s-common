@@ -57,7 +57,6 @@ lazy val commonDependencies = Seq(
   "com.amazonaws" % "aws-java-sdk" % "1.10.50",
   "com.zaxxer" % "HikariCP" % "2.4.5",
   "com.typesafe.slick" %% "slick" % "3.1.1",
-  "com.treasuredata" % "td-client" % "0.5.10",
   "com.github.tototoshi" %% "slick-joda-mapper" % "2.1.0",
   "com.github.nscala-time" %% "nscala-time" % "2.8.0",
   "com.github.seratch" %% "awscala" % "0.5.+",
